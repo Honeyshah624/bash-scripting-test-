@@ -16,6 +16,6 @@ case "$1" in
         echo "Application is running"
         ;;
     *)
-        echo "Invalid argument. Use start, stop, or status."
+        echo "Invalid argument. Use start, stop, or status..."
         ;;
 esac
