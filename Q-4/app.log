@@ -1,0 +1,9 @@
+2024-10-01 10:01:12 INFO Application started 
+2024-10-01 10:01:15 DEBUG Loading configuration files 
+2024-10-01 10:01:18 INFO Database connection established 
+2024-10-01 10:01:22 ERROR Failed to load user profile 2
+024-10-01 10:01:25 WARN Retrying database connection 
+2024-10-01 10:01:30 INFO User login successful 
+2024-10-01 10:01:35 ERROR Timeout while calling external API 
+2024-10-01 10:01:40 DEBUG Cache refreshed successfully 
+2024-10-01 10:01:45 INFO Application running normally
