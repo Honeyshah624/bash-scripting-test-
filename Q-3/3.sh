@@ -7,7 +7,7 @@ fi
 
 FILE="$1"
 
-if [ -f "$FILE" ]; then
+if [ -e "$FILE" ]; then
     LINES=$(wc -l < "$FILE") 
     WORDS=$(wc -w < "$FILE")  
     echo "File '$FILE' exists."
@@ -15,6 +15,5 @@ if [ -f "$FILE" ]; then
     echo "Number of words: $WORDS"
 else
     echo " '$FILE' does not exist."
-    echo "error"
     exit 1
 fi
