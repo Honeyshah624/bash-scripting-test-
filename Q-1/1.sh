@@ -1,3 +1,5 @@
+#Write a script that accept one argument, if the argument starts with start then it should print starting applications then second as stop it should print stop application , third one is about status that should print it is running and other application invalid  
+
 #!/bin/bash
 
 if [ $# -eq 0 ]; then
