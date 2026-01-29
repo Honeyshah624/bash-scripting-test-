@@ -1,0 +1,1 @@
+# write a script you need to take the backup of a directory by using a script that runs every two minutes and give a file or a directory naming convention that should be a current date and time.
